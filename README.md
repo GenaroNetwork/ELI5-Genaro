@@ -1,5 +1,9 @@
 # ELI5 -- Genaro
 The Document is about to describe how to use Genaro, and how to join the Genaro sharing community.
+
+Be sure that you have this sub-repo, and this library is a must for using sharing
+<https://github.com/GenaroNetwork/libgenaro/tree/mail>
+
 ### It starts with encryption
 ![image of part1](./resources/EN_1.jpg)
 ![image of part2](./resources/EN_2.jpg)
